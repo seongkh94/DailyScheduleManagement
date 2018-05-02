@@ -2,8 +2,8 @@
 =========================
 
 1. 使用技術
-### - JavaScript - VueJs2
-### - HTML & CSS - bootstrap
+  - JavaScript - VueJs2
+  - HTML & CSS - bootstrap
 
 2. 開発期間 : １日
 
